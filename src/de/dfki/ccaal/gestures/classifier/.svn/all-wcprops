@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier
+END
+Distribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier/Distribution.java
+END
+GestureClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier/GestureClassifier.java
+END
+DTWAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier/DTWAlgorithm.java
+END
+Distribution.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier/Distribution.aidl
+END

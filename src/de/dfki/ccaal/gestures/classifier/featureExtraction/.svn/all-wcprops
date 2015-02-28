@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier/featureExtraction
+END
+IFeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier/featureExtraction/IFeatureExtractor.java
+END
+IFeatureExtractorConstCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier/featureExtraction/IFeatureExtractorConstCount.java
+END
+GridExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier/featureExtraction/GridExtractor.java
+END
+SimpleExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier/featureExtraction/SimpleExtractor.java
+END
+NormedGridExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier/featureExtraction/NormedGridExtractor.java
+END
+NormExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/GestureTrainer/src/de/dfki/ccaal/gestures/classifier/featureExtraction/NormExtractor.java
+END
